@@ -8,3 +8,5 @@ gensim
 matplotlib
 seaborn
 wordcloud
+ipykernel
+notebook
